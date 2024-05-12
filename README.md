@@ -42,6 +42,10 @@ To get started with creating your fighting game, follow these steps:
 - **Game Development Libraries**: Explore game development libraries and frameworks such as Phaser.js or PixiJS for additional features and capabilities.
 - **Game exe**: The Game based on the web game [download](https://www.mediafire.com/file/dw1uosz7ib1pmnm/Fight_ME_Monk.zip/file)
 
+<p align="right">
+  <img src="img/logo.png" width="20%">
+</p>
+
 image resources
 -    [Oak Woods Assets:](https://brullov.itch.io/oak-woods)
 -    [Evil Monk:](https://luizmelo.itch.io/martial-hero)
