@@ -38,12 +38,13 @@ To get started with creating your fighting game, follow these steps:
 
 ## Resources
 
-<p align="right">
-  <img src="https://github.com/Ali-Cheikh/fighter-2DGame/assets/57839971/f2a94e7e-5d64-4a29-96e1-ef258338558c" width="10%">
-</p>
+<img src="https://github.com/Ali-Cheikh/fighter-2DGame/assets/57839971/f2a94e7e-5d64-4a29-96e1-ef258338558c" width="10%" align="right">
+
+- **Game exe**: The Application/game made after the Web-game [download](https://www.mediafire.com/file/dw1uosz7ib1pmnm/Fight_ME_Monk.zip/file)
+
 - **Sprite Sheets**: Find professional sprite sheets online or create your own using graphic design software.
 - **Game Development Libraries**: Explore game development libraries and frameworks such as Phaser.js or PixiJS for additional features and capabilities.
-- **Game exe**: The Game based on the web game [download](https://www.mediafire.com/file/dw1uosz7ib1pmnm/Fight_ME_Monk.zip/file)
+
 image resources
 -    [Oak Woods Assets:](https://brullov.itch.io/oak-woods)
 -    [Evil Monk:](https://luizmelo.itch.io/martial-hero)
