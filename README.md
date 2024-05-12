@@ -40,6 +40,7 @@ To get started with creating your fighting game, follow these steps:
 
 - **Sprite Sheets**: Find professional sprite sheets online or create your own using graphic design software.
 - **Game Development Libraries**: Explore game development libraries and frameworks such as Phaser.js or PixiJS for additional features and capabilities.
+- **Game exe**: The Game based on the web game [download](https://www.mediafire.com/file/dw1uosz7ib1pmnm/Fight_ME_Monk.zip/file)
 
 image resources
 -    [Oak Woods Assets:](https://brullov.itch.io/oak-woods)
