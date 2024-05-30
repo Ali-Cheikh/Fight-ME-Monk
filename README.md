@@ -37,7 +37,8 @@ To get started with creating your fighting game, follow these steps:
 6. Fine-tune and iterate on your game to improve performance and user experience.
 
 ## Resources
-<iframe frameborder="0" src="https://itch.io/embed/2731571?linkback=true&amp;bg_color=222222&amp;fg_color=ffffff&amp;link_color=cefa5b&amp;border_color=363636" width="552" height="167" align="right"><a href="https://unexpected14.itch.io/fghit-me-monk">2d browser fight game by unexpected14</a></iframe>
+
+<a href="https://unexpected14.itch.io/fghit-me-monk">2d browser fight game by unexpected14</a>
 
 
 - **Game exe**: The Application/game made after the Web-game [download](https://www.mediafire.com/file/dw1uosz7ib1pmnm/Fight_ME_Monk.zip/file)
